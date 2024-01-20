@@ -1,0 +1,5 @@
+Flask
+bs4
+requests
+pyairtable
+flask_cors>=4.0.0

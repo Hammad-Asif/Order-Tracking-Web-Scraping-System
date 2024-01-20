@@ -1,0 +1,7 @@
+this is the button color code 5F59DF
+this is the background color code 4D46DC
+the rest is regular white FFFFFF
+
+
+
+1. if in manifest is ALANNA or BBM
